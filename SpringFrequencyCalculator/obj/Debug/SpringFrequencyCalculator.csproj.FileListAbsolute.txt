@@ -1,0 +1,10 @@
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\obj\Debug\SpringFrequencyCalculator.csproj.AssemblyReference.cache
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\obj\Debug\SpringFrequencyCalculator.Form1.resources
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\obj\Debug\SpringFrequencyCalculator.Properties.Resources.resources
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\obj\Debug\SpringFrequencyCalculator.csproj.GenerateResource.cache
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\obj\Debug\SpringFrequencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\bin\Debug\SpringFrequencyCalculator.exe.config
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\bin\Debug\SpringFrequencyCalculator.exe
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\bin\Debug\SpringFrequencyCalculator.pdb
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\obj\Debug\SpringFrequencyCalculator.exe
+C:\Users\skocak\source\repos\SpringFrequencyCalculator\SpringFrequencyCalculator\obj\Debug\SpringFrequencyCalculator.pdb
