@@ -68,7 +68,7 @@ namespace SpringFrequencyCalculator
                 e.Handled = true;
             }
         }
-
+        //sk
         private void txtM_KeyPress(object sender, KeyPressEventArgs e)
         {
             e.Handled = !(Char.IsNumber(e.KeyChar) || e.KeyChar == 8 || e.KeyChar == 46);
